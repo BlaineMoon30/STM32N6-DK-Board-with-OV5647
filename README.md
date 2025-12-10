@@ -1,6 +1,9 @@
 
 ## <b>DCMIPP_ContinuousMode Example Description</b>
 
+Arducam : https://www.devicemart.co.kr/goods/view?no=13617278&srsltid=AfmBOoqRLxtu_zyf-dAGbi0EX-8_eaM8yHN4Xaw21liCrZ9UIshCKQeL </br>
+Arducam documentation : https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/5MP-OV5647/
+
 This example shows how to use the DCMIPP IP in continuous Mode as a Camera Serial Interface and it is based on the STM32Cube HAL API
 that can be used to build any firmware application. Note that security is enabled by default on Cortex-M55.
 
